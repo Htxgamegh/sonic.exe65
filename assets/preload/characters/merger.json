@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				122
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Merger hurt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				169,
+				96
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Merger left"
+		},
+		{
+			"offsets": [
+				55,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Merger right"
+		},
+		{
+			"offsets": [
+				120,
+				114
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Merger down"
+		},
+		{
+			"offsets": [
+				107,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Merger up"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Merger idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Merger_assets",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "merger",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		75
+	],
+	"camera_position": [
+		-60,
+		-15
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
